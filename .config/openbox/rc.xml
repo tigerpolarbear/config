@@ -23,37 +23,37 @@
 </placement>
 
 <theme>
-  <name>Clearlooks</name>
+  <name>tigerpolarbear</name>
   <titleLayout>L</titleLayout>
   <keepBorder>yes</keepBorder>
   <animateIconify>no</animateIconify>
   <font place="ActiveWindow">
     <name>Terminus</name>
-    <size>8</size>
+    <size>6</size>
     <weight>normal</weight>
     <slant>normal</slant>
   </font>
   <font place="InactiveWindow">
     <name>Terminus</name>
-    <size>8</size>
+    <size>6</size>
     <weight>normal</weight>
     <slant>normal</slant>
   </font>
   <font place="MenuHeader">
     <name>Terminus</name>
-    <size>8</size>
+    <size>6</size>
     <weight>normal</weight>
     <slant>normal</slant>
   </font>
   <font place="MenuItem">
     <name>Terminus</name>
-    <size>8</size>
+    <size>6</size>
     <weight>normal</weight>
     <slant>normal</slant>
   </font>
   <font place="OnScreenDisplay">
     <name>Terminus</name>
-    <size>8</size>
+    <size>6</size>
     <weight>normal</weight>
     <slant>normal</slant>
   </font>

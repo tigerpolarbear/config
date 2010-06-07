@@ -1,0 +1,97 @@
+# Fonts
+# these are really halos, but who cares?
+
+*.font: shadow=n
+window.active.label.text.font:shadow=y:shadowtint=0:shadowoffset=1
+window.inactive.label.text.font:shadow=y:shadowtint=00:shadowoffset=0
+menu.items.font:shadow=y:shadowtint=0:shadowoffset=0
+
+!# general stuff
+
+border.width: 0
+padding.width: 1
+padding.height: 1
+window.handle.width: 1
+window.client.padding.width: 1
+menu.overlap: 0
+*.justify: right
+
+!# Menu settings
+
+menu.border.color: #aaaaaa
+menu.border.width: 0
+
+menu.title.bg: solid flat
+menu.title.bg.color: #ffffff
+menu.title.text.color: #32363A
+
+menu.items.bg: Flat Solid
+menu.items.bg.color: #ffffff
+menu.items.text.color: #32363A
+menu.items.disabled.text.color: #aaaaaa
+
+menu.items.active.bg: Flat Solid
+
+menu.items.active.bg.color: #F8732B
+
+menu.items.active.bg.colorTo: #91b3de
+menu.items.active.text.color: #ffffff
+
+menu.separator.width: 0
+menu.separator.padding.width: 0
+menu.separator.padding.height: 3
+menu.separator.color: #aaaaaa
+
+!# set handles here and only the once?
+
+window.*.handle.bg: Raised solid
+window.*.handle.bg.color: #eaebec
+
+window.*.grip.bg: Raised solid
+window.*.grip.bg.color: #eaebec
+
+!# Active
+
+window.active.client.color: #FFFFFF
+
+*.title.bg: Flat Solid
+*.title.bg.color: #FFFFFF
+
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #32363A
+
+!# inactive
+
+window.inactive.client.color: #FFFFFF
+
+window.inactive.title.bg: Flat Solid
+window.inactive.title.bg.color: #FFFFFF
+
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: #CACFD0
+
+!# osd (pop ups and what not, dock?)
+
+osd.border.width: 1
+osd.border.color:  #aaaaaa
+
+osd.bg: flat border gradient splitvertical
+osd.bg.color: #F0EFEE
+osd.bg.color.splitto: #f5f5f4
+osd.bg.colorTo: #EAEBEC
+osd.bg.colorTo.splitto: #E7E5E4
+
+osd.bg.border.color: #ffffff
+
+osd.label.bg: parentrelative
+osd.label.bg.color: #efefef
+osd.label.bg.border.color: #9c9e9c
+
+osd.label.text.color: #444
+!# yeah whatever, this is fine anyhoo?
+osd.hilight.bg: flat vertical gradient 
+osd.hilight.bg.color: #9ebde5
+osd.hilight.bg.colorTo: #749dcf
+osd.unhilight.bg: flat vertical gradient
+osd.unhilight.bg.color: #BABDB6
+osd.unhilight.bg.colorTo: #efefef
